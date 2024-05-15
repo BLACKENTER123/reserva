@@ -55,7 +55,7 @@
 /img/logo_click.png">
 		
         <!-- TITLE -->
-        <title>Ecorik - Hotel & Resort HTML Template</title>
+        <title>CanchaClick</title>
     </head>
 
     <body>
@@ -119,7 +119,7 @@
 								<div class="others-option">
 									<a class="call-us" href="tel:+009-8765-4332">
 										<i class="bx bx-phone-call bx-tada"></i>
-										+009 8765 4332
+										+56 9 1234 5678
 									</a>
 								</div>
 								<!-- End Other Option -->
